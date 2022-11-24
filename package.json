@@ -1,0 +1,27 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dima-potebnya/Laba3.git"
+  },
+  "keywords": [
+    "lab3"
+  ],
+  "author": "Dmytro Potebnya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dima-potebnya/Laba3/issues"
+  },
+  "homepage": "https://github.com/dima-potebnya/Laba3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
+  }
+}
